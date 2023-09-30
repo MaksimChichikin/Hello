@@ -1,0 +1,8 @@
+C:\My-project\idontknow\bin\Debug\idontknow.exe.config
+C:\My-project\idontknow\bin\Debug\idontknow.exe
+C:\My-project\idontknow\bin\Debug\idontknow.pdb
+C:\My-project\idontknow\obj\Debug\idontknow.csproj.AssemblyReference.cache
+C:\My-project\idontknow\obj\Debug\idontknow.csproj.SuggestedBindingRedirects.cache
+C:\My-project\idontknow\obj\Debug\idontknow.csproj.CoreCompileInputs.cache
+C:\My-project\idontknow\obj\Debug\idontknow.exe
+C:\My-project\idontknow\obj\Debug\idontknow.pdb
